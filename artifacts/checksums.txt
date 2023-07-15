@@ -1,0 +1,1 @@
+ca71f1eb549afb02f8900e16843032faedee8b03f21c5b25e4d56443a0b845ba  cw_access_contract.wasm

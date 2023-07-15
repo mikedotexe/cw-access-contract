@@ -1,0 +1,1 @@
+743010ada51bfcb27e739ffe3fecccde63ce5a126a23e26bd88190acf3fe6585  ./contracts/cw-access-contract/target/wasm32-unknown-unknown/release/cw_access_contract.wasm
